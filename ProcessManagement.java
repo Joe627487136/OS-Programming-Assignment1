@@ -80,7 +80,7 @@ public class ProcessManagement {
             System.out.println("All process finished successfully");
         }
         } catch (Exception e){
-            System.out.println("Error! Please input correct node number or text name");
+            System.out.println("Error! Please input correct node number or text name or instructions");
         }
 
     }
