@@ -1,5 +1,5 @@
 /* Programming Assignment 1 
- * Authors : Zhou Xuexuan (1001603)
+ * Authors : Zhou Xuexuan (1001603) Wu Zheyu (1001780)
  * Date: 08/03/2017 */
 
 ######## Purpose of program ########
